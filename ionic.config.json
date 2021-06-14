@@ -1,0 +1,7 @@
+{
+  "name": "sonny-ocean",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
